@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* Animes are awesome...
+* Favourite animes are...
+  * AOT
+  * DS
+  * JJk
